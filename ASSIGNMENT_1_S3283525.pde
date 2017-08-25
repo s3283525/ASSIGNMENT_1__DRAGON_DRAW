@@ -281,6 +281,8 @@ void keyPressed() {
        start = 1;
        background(255);
      }
+     
+     if (key == 'p') saveFrame();
   
 }
 
