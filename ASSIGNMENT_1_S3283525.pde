@@ -173,7 +173,7 @@ brushTabBar();
 
  if (mousePressed) {
         //button 1
-     if (mouseY < 70 ){ // alligning with set button parameters (in brushTabBar) 
+     if (mouseY < 100 ){ // alligning with set button parameters (in brushTabBar) 
      // do button functions
      if (mouseX < (width/3)) {
         lastButton = 1; 
